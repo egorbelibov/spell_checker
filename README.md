@@ -25,11 +25,11 @@ WORDS MISSPELLED:     644
 WORDS IN DICTIONARY:  143091
 WORDS IN TEXT:        19190
 -------------
-TIME IN load:         0.10
-TIME IN check:        0.01
-TIME IN size:         0.00
-TIME IN unload:       0.06
-TIME IN TOTAL:        0.17
+TIME IN load:         0.10s
+TIME IN check:        0.01s
+TIME IN size:         0.00s
+TIME IN unload:       0.06s
+TIME IN TOTAL:        0.17s
 
 ---------------------------------
 ```
